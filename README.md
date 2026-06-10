@@ -1,5 +1,4 @@
 # 🔐 Telnet vs SSH: Network Security Analysis with Wireshark
-A hands-on network security project demonstrating the vulnerability of Telnet protocol versus the encryption strength of SSH. Built using GNS3 network simulator with Cisco IOS routers, and analyzed using Wireshark packet capture.
 
 There's a moment in networking that changes how you think about protocols forever.
 
